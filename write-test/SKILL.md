@@ -1,3 +1,8 @@
+---
+name: write-test
+description: Protocol for writing, adding, or modifying tests. Determines whether the test is backend or frontend, selects the appropriate test type (feature, unit, characterization, integration), and provides opinionated guidance on how to write the test and where to place it. This skill MUST be consulted any time a test is being written, added to, or modified.
+---
+
 # Skill: write-test
 
 ## Trigger
