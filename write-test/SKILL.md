@@ -18,7 +18,7 @@ Whenever you are about to write a new test file, add a test case to an existing 
 
 2. **Determine the test type**: Use the heuristics below to decide which type of test to write.
 
-3. **Read the appropriate guide**: Once you know the domain and type, read the corresponding file before writing any test code.
+3. **Read the appropriate guide**: Once you know the domain and type, read the corresponding section in the domain guide before writing any test code.
 
 4. **Determine placement**: Look at the existing project structure for test file conventions (location, naming, directory organization). Match what already exists. If there are no existing conventions or it is unclear, ask the user.
 
@@ -30,17 +30,17 @@ Whenever you are about to write a new test file, add a test case to an existing 
 
 | If the intent is to... | Test type |
 |---|---|
-| Test a capability of the system through its public interface (HTTP, CLI, RPC, etc.) | [Feature](backend/FEATURE.md) |
-| Prevent regression on edge cases, side effects, state changes, or specific return values | [Unit](backend/UNIT.md) |
-| Document the current behavior of existing code before a refactor or change | [Characterization](backend/CHARACTERIZATION.md) |
-| Test the interaction between the system under test and another system/service | [Integration](backend/INTEGRATION.md) |
+| Test a capability of the system through its public interface (HTTP, CLI, RPC, etc.) | [Feature](BACKEND.md#feature-tests) |
+| Prevent regression on edge cases, side effects, state changes, or specific return values | [Unit](BACKEND.md#unit-tests) |
+| Document the current behavior of existing code before a refactor or change | [Characterization](BACKEND.md#characterization-tests) |
+| Test the interaction between the system under test and another system/service | [Integration](BACKEND.md#integration-tests) |
 
 ### Frontend
 
 | If the intent is to... | Test type |
 |---|---|
-| Test a full page by rendering it and interacting with it the way a user would | [Feature](frontend/FEATURE.md) |
-| Test an individual component in isolation for regression prevention | [Unit](frontend/UNIT.md) |
+| Test a full page by rendering it and interacting with it the way a user would | [Feature](FRONTEND.md#feature-tests) |
+| Test an individual component in isolation for regression prevention | [Unit](FRONTEND.md#unit-tests) |
 
 ### Additional Signals
 
