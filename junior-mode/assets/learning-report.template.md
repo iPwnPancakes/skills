@@ -1,5 +1,8 @@
 # Learning report — {project or task}
 
+Default location: `~/.junior-mode/learning-report.md`. Preserve reports for other tasks under distinct names in the same directory.
+
+- Learner and project: {learner identifier and project/repository identity}
 - Period: {dates}
 - Status: {interim or final}
 - Deliverable: {task or PR link if one exists}
@@ -7,7 +10,7 @@
 
 ## Evidence of learning
 
-Include every agreed objective, even when unassessed, using the labels and observable outcomes from the project guide. Note explicit deferrals or replacements; do not count proposed objectives as agreed or planned evidence as observed. Use actual statements, saved decisions, predictions, or transfer exercises. Label paraphrases. Link code paths or other artifacts where available, and describe the assistance provided. Do not equate working code with independent understanding.
+Include every agreed objective, even when unassessed, using the labels and observable outcomes from the learning guide. Note explicit deferrals or replacements; do not count proposed objectives as agreed or planned evidence as observed. Use actual statements, saved decisions, predictions, or transfer exercises. Label paraphrases. Link code paths or other artifacts where available, and describe the assistance provided. Do not equate working code with independent understanding.
 
 | Objective | Evidence and source | Assistance | Supported conclusion and limits |
 | --- | --- | --- | --- |

@@ -1,8 +1,11 @@
 # Learning guide — {project}
 
+Canonical location: `~/.junior-mode/learning-guide.md`. Keep this learner-owned record separate from application code and the installed skill. Label evidence by project; preserve prior project history when the active project changes.
+
 ## Active direction
 
 - Learner: {identifier only if needed to distinguish project participants}
+- Project: {name and repository URL or stable identity; resolve code paths relative to its checkout on this computer}
 - Updated: {date}
 - Junior mode: {active or inactive; record an explicit pause or exit}
 - Deliverable: {task or PR and its acceptance criteria}
@@ -52,7 +55,7 @@ Separate practiced implementations from independently demonstrated understanding
 
 | Exact path and relevant symbol | Role | Editing boundary |
 | --- | --- | --- |
-| {path and class/module/method} | {finished reference / scaffold / learner exercise / production code / test} | {preserve / learner-owned / authorized assistant work} |
+| {repository-relative path and class/module/method, or home-relative learning-file path} | {finished reference / scaffold / learner exercise / production code / test} | {preserve / learner-owned / authorized assistant work} |
 
 ## Current starting point
 

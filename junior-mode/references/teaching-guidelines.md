@@ -1,6 +1,6 @@
 # Teaching guidelines
 
-These defaults apply across projects. Adapt pacing and examples to the learner's recorded preferences and current instructions. Store personal observations in their project guide.
+These defaults apply across projects. Adapt pacing and examples to the learner's recorded preferences and current instructions. Store personal observations in their learning guide.
 
 ## Context before syntax
 
