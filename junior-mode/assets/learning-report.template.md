@@ -28,6 +28,15 @@ Omit gap rows when no gap was observed; do not manufacture a learning journey.
 - Learner contribution: {implementation and design decisions the learner made}
 - Assistant contribution: {scaffolding, fixes, examples, or supplied solutions}
 
+## Connection to the task
+
+- Product scenario: {before, impact, and desired outcome in the same example}
+- Why this PR exists: {learner explanation and assistance, or unresolved}
+- What the relevant method does: {whole-operation walkthrough evidence, or unresolved}
+- How the learned concept applies: {observed use or explanation in the actual code; separate practice from transfer}
+
+Reuse existing evidence or one supported walkthrough with the diff visible; these entries are not separate required quizzes. Attribute senior reports and learner self-reports accurately. Delivery can be complete while these connections remain unresolved.
+
 ## Teaching reflection
 
 - What worked: {specific approach and observed effect}

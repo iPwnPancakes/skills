@@ -9,6 +9,14 @@
 - Current direction: {what we are doing now and why}
 - Boundaries: {protected references, excluded work, or reset decisions; omit if none}
 
+## Task anchor
+
+- User and intent: {who uses this workflow and what they want to accomplish}
+- Before and impact: {one concrete scenario, current behavior, and why it causes a problem; distinguish verified facts from assumptions}
+- Desired outcome: {the same scenario after the change}
+- Connection to code: {plain-language operations and their relevant method or data flow; note explanations already supplied}
+- Evidence of the connection: {what the learner has explained or applied, source and assistance, or unassessed}
+
 ## Learning objectives
 
 There are no defaults. Ingest objectives from the learner's or senior's brief, conversation, or relevant project documents. If objectives have not been established, mark them as pending and ask rather than filling in a generic curriculum. Expand supplied topics into fuller proposed descriptions and present them for user confirmation before making them active. A supplied topic alone is not confirmation of the agent's expanded description. Keep proposed drafts separate from the active plan.
@@ -55,6 +63,8 @@ Separate practiced implementations from independently demonstrated understanding
 - Completion criteria: {observable behavior and relevant cases}
 - Support already supplied: {scaffolding, hints, examples, or solution portions}
 - Next step: {one action or focused question; avoid a long curriculum}
+
+When focused learning threads are used, record only the active obstacle, thread link/ID, exact return task, and reconciled handoff evidence here. The main thread owns this record. Mark replaced directions historical and reconcile explicit pauses, exits, and objective changes before resuming.
 
 ## Evidence log
 
