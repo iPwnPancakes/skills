@@ -1,13 +1,24 @@
 # Learning guide — {project}
 
+Canonical location: `~/.junior-mode/learning-guide.md`. Keep this learner-owned record separate from application code and the installed skill. Label evidence by project; preserve prior project history when the active project changes.
+
 ## Active direction
 
 - Learner: {identifier only if needed to distinguish project participants}
+- Project: {name and repository URL or stable identity; resolve code paths relative to its checkout on this computer}
 - Updated: {date}
 - Junior mode: {active or inactive; record an explicit pause or exit}
 - Deliverable: {task or PR and its acceptance criteria}
 - Current direction: {what we are doing now and why}
 - Boundaries: {protected references, excluded work, or reset decisions; omit if none}
+
+## Task anchor
+
+- User and intent: {who uses this workflow and what they want to accomplish}
+- Before and impact: {one concrete scenario, current behavior, and why it causes a problem; distinguish verified facts from assumptions}
+- Desired outcome: {the same scenario after the change}
+- Connection to code: {plain-language operations and their relevant method or data flow; note explanations already supplied}
+- Evidence of the connection: {what the learner has explained or applied, source and assistance, or unassessed}
 
 ## Learning objectives
 
@@ -44,7 +55,7 @@ Separate practiced implementations from independently demonstrated understanding
 
 | Exact path and relevant symbol | Role | Editing boundary |
 | --- | --- | --- |
-| {path and class/module/method} | {finished reference / scaffold / learner exercise / production code / test} | {preserve / learner-owned / authorized assistant work} |
+| {repository-relative path and class/module/method, or home-relative learning-file path} | {finished reference / scaffold / learner exercise / production code / test} | {preserve / learner-owned / authorized assistant work} |
 
 ## Current starting point
 
@@ -55,6 +66,8 @@ Separate practiced implementations from independently demonstrated understanding
 - Completion criteria: {observable behavior and relevant cases}
 - Support already supplied: {scaffolding, hints, examples, or solution portions}
 - Next step: {one action or focused question; avoid a long curriculum}
+
+When focused learning threads are used, record only the active obstacle, thread link/ID, exact return task, and reconciled handoff evidence here. The main thread owns this record. Mark replaced directions historical and reconcile explicit pauses, exits, and objective changes before resuming.
 
 ## Evidence log
 
